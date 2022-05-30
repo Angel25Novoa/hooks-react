@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoListItem component tests TodoListItem component should render without errors 1`] = `
+<li
+  className="element"
+>
+  <p
+    className="notDone"
+    onClick={[Function]}
+  >
+    1:
+    Hacer la compra
+  </p>
+  <button
+    className="btn btn-danger"
+    onClick={[Function]}
+  >
+    Delete
+  </button>
+</li>
+`;

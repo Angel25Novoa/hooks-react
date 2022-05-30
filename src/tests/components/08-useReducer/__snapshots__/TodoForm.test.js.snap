@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoForm component tests TodoForm component should render without errors 1`] = `
+<Fragment>
+  <h4>
+    Add TO-DO
+  </h4>
+  <hr />
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      autoComplete="off"
+      className="form-control"
+      name="description"
+      onChange={[Function]}
+      placeholder="Descripción"
+      type="text"
+      value=""
+    />
+    <button
+      className="btn btn-info mt-1 btn-block"
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+</Fragment>
+`;
